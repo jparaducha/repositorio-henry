@@ -1,0 +1,9 @@
+las variables son nombres que utilizamos para guardar una dirección de memoria que nos indica dónde está almacenado el elemento que estamos guardando o iniciando.
+
+las strings son un tipo de variables que se usa para guardar un conjunto de caracteres como por ejemplo palabras, nombres, direcciones así como también números, también es posible guardar cadenas que tienen solo un caracter;
+
+las funciones son tareas y procesos predefinidos para volver a usarse cada vez que son llamados, pasando parámetros para que nos devuelva el resultado deseado. 
+
+las declaraciones if son puntos de control donde si se cumple la condición se ejecuta una parte del programa y si no se cumple se ignora ese código, al no cumplirse la condición puede ejecutarse otro trozo de código siempre que no se cumple o simplemente seguir adelanto con el resto del programa.
+
+los valores booleanos son la base fundamental de la computación, pudiendo valer 'true' o 'false' representan unos y ceros que la computadora interpreta en lenguaje máquina. 

@@ -1,0 +1,1 @@
+Los arreglos en javascript son una colección de elementos ordenados que no necesariamente son del mismo tipo, pueden guardarse cadenas, números, booleanos, objetos y cualquier tipo de elemento que se requiera. Es una forma práctica y ordenada de mantener elementos relacionados entre sí para cuando sea necesario accerder a ellos, para leerlos o usarlos.

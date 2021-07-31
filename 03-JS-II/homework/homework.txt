@@ -1,0 +1,7 @@
+el bucle 'for' es un elemento de programación que repite tantas veces como se le indique un mismo conjunto de tareas, se usa para las operaciones que deben realizarse muchas veces y son similares.
+
+el operador '||' se usa para la operación de disyunción donde si una de las premisas comparadas es veradera toda la operación será verdadera. para que la operación sea falsa, ambas premisas deben ser falsas.
+
+el operador '&&' representa a la operación conjuntiva que devuelve un resultado verdadero si ambas premisas comparadas son verdaderas ya que si alguna es falsa toda la operación dara un resultado falso
+
+el símbolo '!' representa a la negación y devuelve el resultado opuesto de la operación en la que se implemente

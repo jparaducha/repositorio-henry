@@ -1,0 +1,29 @@
+body{
+    display:grid;
+    place-items:center;
+    background-color:darkgrey;
+}
+
+h1{
+    color:darkred;
+}
+
+
+img{
+    width: 400px;
+    border: 2px solid blue;
+}
+
+#thidDiv{
+    height: 600;
+    width: 500;
+    background-color: burlywood;
+    padding: 50px;
+    border-width:5px;
+    border-color:deeppink;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}

@@ -1,0 +1,9 @@
+los objetos en javascript son un conjunto de elementos guardados en una misma variable para su uso. es como si los elementos de un objeto fueran las características o elementos del objeto en su totalidad.
+
+las propiedades de los objetos es como se conoce a los elementos que guarda dentro junto con sus respectivos valores.
+
+los métodos serían las funciones dentro de objetos o clases. son acciones que podemos ejecutar cuando necesitamos y características al objeto mismo.
+
+el bucle for in recorre un objeto o arreglo ejecutando acciones sobre los elementos del mismo definidos dentro de la instrucción.
+
+la notacion de puntos y de corchetes se usan para acceder a las propiedades de los objetos con la principal diferencia de que la notación de corchetes se usa cuando se quiere acceder usando una variable como una cadena
